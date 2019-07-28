@@ -1,7 +1,7 @@
 # DoublyLinkedList-and-LQHashed
 
 ### Design a class called DoublyLinkedList ( the class java should be called DoublyLinkedList.java ) that encodes an extended version of a doubly linked list class, with the following (exact) fields
-# Stack
+# DoublyLinkedList
 
 | Fields and Methods         |                  | Description             |
 | ------------- | ----------------------- | ----------------------- |
