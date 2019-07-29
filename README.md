@@ -6,7 +6,7 @@
 | Fields and Methods         |                  | Description             |
 | ------------- | ----------------------- | ----------------------- |
 | Fields      | Header<br>Data<br>Next<br>Back<br> | Header node<br>Link to the data<br>Link to the next node<br> Link to the node before |
-| Methods       | DoublyLinkedList<br>Insert<br>Fetch<br>Delete<br>Update<br>OutputForward<br>OutputBackward<br>Output Recursive<br>.<br> | A constructor with no parameters that initialized the fields<br>Insert a value (given by the parameter) into a new node in the list<br>Fetch a value ( given by the parameter ) from the list<br>Delete a value<br>Update a value (given by the first parameter) from the list to a new value (given by the second parameter)<br>Reinitialize the stack to the empty stack<br>Test if the stack is empty (underflow condition)<br>Peek at the stack<br>Find the node on a certain position on the stack (given by parameter) |
+| Methods       | DoublyLinkedList<br>Insert<br>Fetch<br>Delete<br>Update<br>OutputForward<br>OutputBackward<br>Output Recursive<br>.<br> | A constructor with no parameters that initialized the fields<br>Insert a value (given by the parameter) into a new node in the list<br>Fetch a value ( given by the parameter ) from the list<br>Delete a value<br>Update a value (given by the first parameter) from the list to a new value (given by the second parameter)<br>Output all the values from the list in forward order<br>Output all the values from the list in backward order<br>A recursive method that output the list in forward order |
 
 
 
